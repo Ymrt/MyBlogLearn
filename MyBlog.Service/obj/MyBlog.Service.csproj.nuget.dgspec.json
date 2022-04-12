@@ -1,0 +1,245 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\code\\C#\\Core\\StudentManagement\\MyBlog\\MyBlog.Service\\MyBlog.Service.csproj": {}
+  },
+  "projects": {
+    "E:\\code\\C#\\Core\\StudentManagement\\MyBlog\\MyBlog.IRepository\\MyBlog.IRepository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\code\\C#\\Core\\StudentManagement\\MyBlog\\MyBlog.IRepository\\MyBlog.IRepository.csproj",
+        "projectName": "MyBlog.IRepository",
+        "projectPath": "E:\\code\\C#\\Core\\StudentManagement\\MyBlog\\MyBlog.IRepository\\MyBlog.IRepository.csproj",
+        "packagesPath": "C:\\Users\\Ymrt\\.nuget\\packages\\",
+        "outputPath": "E:\\code\\C#\\Core\\StudentManagement\\MyBlog\\MyBlog.IRepository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ymrt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "E:\\code\\C#\\Core\\StudentManagement\\MyBlog\\MyBlog.Model\\MyBlog.Model.csproj": {
+                "projectPath": "E:\\code\\C#\\Core\\StudentManagement\\MyBlog\\MyBlog.Model\\MyBlog.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\code\\C#\\Core\\StudentManagement\\MyBlog\\MyBlog.IService\\MyBlog.IService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\code\\C#\\Core\\StudentManagement\\MyBlog\\MyBlog.IService\\MyBlog.IService.csproj",
+        "projectName": "MyBlog.IService",
+        "projectPath": "E:\\code\\C#\\Core\\StudentManagement\\MyBlog\\MyBlog.IService\\MyBlog.IService.csproj",
+        "packagesPath": "C:\\Users\\Ymrt\\.nuget\\packages\\",
+        "outputPath": "E:\\code\\C#\\Core\\StudentManagement\\MyBlog\\MyBlog.IService\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ymrt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "E:\\code\\C#\\Core\\StudentManagement\\MyBlog\\MyBlog.Model\\MyBlog.Model.csproj": {
+                "projectPath": "E:\\code\\C#\\Core\\StudentManagement\\MyBlog\\MyBlog.Model\\MyBlog.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\code\\C#\\Core\\StudentManagement\\MyBlog\\MyBlog.Model\\MyBlog.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\code\\C#\\Core\\StudentManagement\\MyBlog\\MyBlog.Model\\MyBlog.Model.csproj",
+        "projectName": "MyBlog.Model",
+        "projectPath": "E:\\code\\C#\\Core\\StudentManagement\\MyBlog\\MyBlog.Model\\MyBlog.Model.csproj",
+        "packagesPath": "C:\\Users\\Ymrt\\.nuget\\packages\\",
+        "outputPath": "E:\\code\\C#\\Core\\StudentManagement\\MyBlog\\MyBlog.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ymrt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "SqlSugarCore": {
+              "target": "Package",
+              "version": "[5.0.6.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\code\\C#\\Core\\StudentManagement\\MyBlog\\MyBlog.Service\\MyBlog.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\code\\C#\\Core\\StudentManagement\\MyBlog\\MyBlog.Service\\MyBlog.Service.csproj",
+        "projectName": "MyBlog.Service",
+        "projectPath": "E:\\code\\C#\\Core\\StudentManagement\\MyBlog\\MyBlog.Service\\MyBlog.Service.csproj",
+        "packagesPath": "C:\\Users\\Ymrt\\.nuget\\packages\\",
+        "outputPath": "E:\\code\\C#\\Core\\StudentManagement\\MyBlog\\MyBlog.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ymrt\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "E:\\code\\C#\\Core\\StudentManagement\\MyBlog\\MyBlog.IRepository\\MyBlog.IRepository.csproj": {
+                "projectPath": "E:\\code\\C#\\Core\\StudentManagement\\MyBlog\\MyBlog.IRepository\\MyBlog.IRepository.csproj"
+              },
+              "E:\\code\\C#\\Core\\StudentManagement\\MyBlog\\MyBlog.IService\\MyBlog.IService.csproj": {
+                "projectPath": "E:\\code\\C#\\Core\\StudentManagement\\MyBlog\\MyBlog.IService\\MyBlog.IService.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

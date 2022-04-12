@@ -1,0 +1,12 @@
+E:\code\C#\Core\StudentManagement\MyBlog\MyBlog.Model\bin\Debug\net5.0\MyBlog.Model.deps.json
+E:\code\C#\Core\StudentManagement\MyBlog\MyBlog.Model\bin\Debug\net5.0\MyBlog.Model.dll
+E:\code\C#\Core\StudentManagement\MyBlog\MyBlog.Model\bin\Debug\net5.0\ref\MyBlog.Model.dll
+E:\code\C#\Core\StudentManagement\MyBlog\MyBlog.Model\bin\Debug\net5.0\MyBlog.Model.pdb
+E:\code\C#\Core\StudentManagement\MyBlog\MyBlog.Model\obj\Debug\net5.0\MyBlog.Model.csproj.AssemblyReference.cache
+E:\code\C#\Core\StudentManagement\MyBlog\MyBlog.Model\obj\Debug\net5.0\MyBlog.Model.GeneratedMSBuildEditorConfig.editorconfig
+E:\code\C#\Core\StudentManagement\MyBlog\MyBlog.Model\obj\Debug\net5.0\MyBlog.Model.AssemblyInfoInputs.cache
+E:\code\C#\Core\StudentManagement\MyBlog\MyBlog.Model\obj\Debug\net5.0\MyBlog.Model.AssemblyInfo.cs
+E:\code\C#\Core\StudentManagement\MyBlog\MyBlog.Model\obj\Debug\net5.0\MyBlog.Model.csproj.CoreCompileInputs.cache
+E:\code\C#\Core\StudentManagement\MyBlog\MyBlog.Model\obj\Debug\net5.0\MyBlog.Model.dll
+E:\code\C#\Core\StudentManagement\MyBlog\MyBlog.Model\obj\Debug\net5.0\ref\MyBlog.Model.dll
+E:\code\C#\Core\StudentManagement\MyBlog\MyBlog.Model\obj\Debug\net5.0\MyBlog.Model.pdb

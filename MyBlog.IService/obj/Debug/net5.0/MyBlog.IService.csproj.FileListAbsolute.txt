@@ -1,0 +1,15 @@
+E:\code\C#\Core\StudentManagement\MyBlog\MyBlog.IService\bin\Debug\net5.0\MyBlog.IService.deps.json
+E:\code\C#\Core\StudentManagement\MyBlog\MyBlog.IService\bin\Debug\net5.0\MyBlog.IService.dll
+E:\code\C#\Core\StudentManagement\MyBlog\MyBlog.IService\bin\Debug\net5.0\ref\MyBlog.IService.dll
+E:\code\C#\Core\StudentManagement\MyBlog\MyBlog.IService\bin\Debug\net5.0\MyBlog.IService.pdb
+E:\code\C#\Core\StudentManagement\MyBlog\MyBlog.IService\bin\Debug\net5.0\MyBlog.Model.dll
+E:\code\C#\Core\StudentManagement\MyBlog\MyBlog.IService\bin\Debug\net5.0\MyBlog.Model.pdb
+E:\code\C#\Core\StudentManagement\MyBlog\MyBlog.IService\obj\Debug\net5.0\MyBlog.IService.csproj.AssemblyReference.cache
+E:\code\C#\Core\StudentManagement\MyBlog\MyBlog.IService\obj\Debug\net5.0\MyBlog.IService.GeneratedMSBuildEditorConfig.editorconfig
+E:\code\C#\Core\StudentManagement\MyBlog\MyBlog.IService\obj\Debug\net5.0\MyBlog.IService.AssemblyInfoInputs.cache
+E:\code\C#\Core\StudentManagement\MyBlog\MyBlog.IService\obj\Debug\net5.0\MyBlog.IService.AssemblyInfo.cs
+E:\code\C#\Core\StudentManagement\MyBlog\MyBlog.IService\obj\Debug\net5.0\MyBlog.IService.csproj.CoreCompileInputs.cache
+E:\code\C#\Core\StudentManagement\MyBlog\MyBlog.IService\obj\Debug\net5.0\MyBlog.IService.csproj.CopyComplete
+E:\code\C#\Core\StudentManagement\MyBlog\MyBlog.IService\obj\Debug\net5.0\MyBlog.IService.dll
+E:\code\C#\Core\StudentManagement\MyBlog\MyBlog.IService\obj\Debug\net5.0\ref\MyBlog.IService.dll
+E:\code\C#\Core\StudentManagement\MyBlog\MyBlog.IService\obj\Debug\net5.0\MyBlog.IService.pdb
