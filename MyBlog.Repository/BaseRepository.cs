@@ -18,12 +18,12 @@ namespace MyBlog.Repository
             base.Context = DbScoped.Sugar;
             //创建数据库
             base.Context.DbMaintenance.CreateDatabase();
-            //创建表
-            base.Context.CodeFirst.InitTables(
-                typeof(AuthorInfo),
-                typeof(BlogList),
-                typeof(TypeInfo)
-                );
+            ////创建表
+            //base.Context.CodeFirst.InitTables(
+            //    typeof(AuthorInfo),
+            //    typeof(BlogList),
+            //    typeof(TypeInfo)
+            //    );
         }
 
         public async Task<bool> CreateAsync(TEntity entity)
